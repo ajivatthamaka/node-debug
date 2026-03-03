@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilongfa/node-debug.git"
+    "url": "git+https://github.com/ajivatthamaka/node-debug.git"
   },
   "keywords": [
     "console",
@@ -26,10 +26,10 @@
     "nodejs-debug",
     "debugjs"
   ],
-  "author": "DiLong Fa <dilongfa@gmail.com>",
+  "author": "Pidiel <ajivatthamaka@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dilongfa/node-debug/issues"
+    "url": "https://github.com/ajivatthamaka/node-debug/issues"
   },
-  "homepage": "https://github.com/dilongfa/node-debug#readme"
+  "homepage": "https://github.com/ajivatthamaka/node-debug#readme"
 }
